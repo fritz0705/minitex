@@ -1,0 +1,7 @@
+This repository contains a Rust implementation of the TeX 82 line justification
+algorithm.
+
+Try:
+$ cargo build
+$ ./target/debug/minitex < test
+
